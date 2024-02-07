@@ -15,7 +15,7 @@
     <li>NLW11 - Setup (<a href="https://github.com/douglasdl/NLW11-Explorer">Explorer</a> - <a href="https://github.com/douglasdl/NLW11-Ignite">Ignite</a>)</li>
     <li>NLW12 - Spacetime (<a href="https://github.com/douglasdl/NLW12-Explorer">Explorer</a> - <a href="https://github.com/douglasdl/NLW12-Ignite">Ignite</a>)</li>
     <li>NLW13 - IA (<a href="https://github.com/douglasdl/NLW13-Foundations">Foundations</a> - <a href="https://github.com/douglasdl/NLW13-Mastery">Mastery</a>)</li>
-    <li>NLW14 - Expert (<a href="https://github.com/douglasdl/NLW14-Java">Java</a> - <a href="https://github.com/douglasdl/NLW14-Python">Python</a>)<a href="https://github.com/douglasdl/NLW14-React">React</a><a href="https://github.com/douglasdl/NLW14-NodeJS">NodeJS</a><a href="https://github.com/douglasdl/NLW14-ReactNative">React Native</a><a href="https://github.com/douglasdl/NLW14-Csharp">C#</a><a href="https://github.com/douglasdl/NLW14-html-css-js">HTML+CSS+JS</a></li>
+    <li>NLW14 - Expert (<a href="https://github.com/douglasdl/NLW14-Java">Java</a> - <a href="https://github.com/douglasdl/NLW14-Python">Python</a> - <a href="https://github.com/douglasdl/NLW14-React">React</a> - <a href="https://github.com/douglasdl/NLW14-NodeJS">NodeJS</a> - <a href="https://github.com/douglasdl/NLW14-ReactNative">React Native</a> - <a href="https://github.com/douglasdl/NLW14-Csharp">C#</a> - <a href="https://github.com/douglasdl/NLW14-html-css-js">HTML+CSS+JS</a>)</li>
 </ul>
 </li>
     
