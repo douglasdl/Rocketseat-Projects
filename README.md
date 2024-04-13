@@ -29,7 +29,7 @@
     <li></li>
     <li></li>
 </ul>
-<h3>Explorer</h3>
+<h3>[Explorer](https://github.com/douglasdl/Explorer)</h3>
 <ul>
     <li></li>
     <li></li>
