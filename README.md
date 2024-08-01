@@ -23,10 +23,7 @@
 
 <h3>Discover</h3>
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li><a href="https://github.com/douglasdl/DevLinks">DevLinks</a></li>
 </ul>
 <h3><a href="https://github.com/douglasdl/Explorer">Explorer</a></h3>
 <ul>
