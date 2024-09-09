@@ -18,7 +18,9 @@
     <li>NLW14 - Expert (<a href="https://github.com/douglasdl/NLW14-Java">Java</a> - <a href="https://github.com/douglasdl/NLW14-Python">Python</a> - <a href="https://github.com/douglasdl/NLW14-React">React</a> - <a href="https://github.com/douglasdl/NLW14-NodeJS">NodeJS</a> - <a href="https://github.com/douglasdl/NLW14-ReactNative">React Native</a> - <a href="https://github.com/douglasdl/NLW14-Csharp">C#</a> - <a href="https://github.com/douglasdl/NLW14-html-css-js">HTML+CSS+JS</a>)</li>
     <li>NLW15 - Unite (<a href="https://github.com/douglasdl/NLW15-Java">Java</a> - <a href="https://github.com/douglasdl/NLW15-Python">Python</a> - <a href="https://github.com/douglasdl/NLW15-React">React</a> - <a href="https://github.com/douglasdl/NLW15-NodeJS">NodeJS</a> - <a href="https://github.com/douglasdl/NLW15-ReactNative">React Native</a> - <a href="https://github.com/douglasdl/NLW15-Csharp">C#</a> - <a href="https://github.com/douglasdl/NLW15-html-css-js">HTML+CSS+JS</a> - <a href="https://github.com/douglasdl/NLW15-DevOps">DevOps</a>)</li>
     <li>NLW16 - Journey (<a href="https://github.com/douglasdl/NLW16-Java">Java</a> - <a href="https://github.com/douglasdl/NLW16-Python">Python</a> - <a href="https://github.com/douglasdl/NLW16-React">React</a> - <a href="https://github.com/douglasdl/NLW16-NodeJS">NodeJS</a> - <a href="https://github.com/douglasdl/NLW16-ReactNative">React Native</a> - <a href="https://github.com/douglasdl/NLW16-Csharp">C#</a> - <a href="https://github.com/douglasdl/NLW16-html-css-js">HTML+CSS+JS</a> - <a href="https://github.com/douglasdl/NLW16-DevOps">DevOps</a> - <a href="https://github.com/douglasdl/NLW16-ia">IA</a> - <a href="https://github.com/douglasdl/NLW16-go">Go</a>)
-    </li>  
+    </li>
+    <li>NLW17 - Pocket JavaScript (<a href="https://github.com/douglasdl/NLW17-Beginner">NodeJS+JavaScript</a> - <a href="https://github.com/douglasdl/NLW17-Intermediary">NodeJS+ReactJS</a>)
+    </li>
 </ul>
 
 <h3>Discover</h3>
