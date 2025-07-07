@@ -24,6 +24,8 @@
     </li>
     <li>NLW19 - Connect (<a href="https://github.com/douglasdl/NLW19-FullStack">FullStack</a> - <a href="https://github.com/douglasdl/NLW19-React">React</a> - <a href="https://github.com/douglasdl/NLW19-NodeJS">NodeJS</a> - <a href="https://github.com/douglasdl/NLW19-Python">Python</a> - <a href="https://github.com/douglasdl/NLW19-Java">Java</a> - <a href="https://github.com/douglasdl/NLW19-Csharp">C#</a>)
     </li>
+    <li>NLW20 - Agents (<a href="https://github.com/douglasdl/NLW20-FullStack">FullStack</a> - <a href="https://github.com/douglasdl/NLW20-React">React</a>)
+    </li>
 </ul>
 
 <h3>Discover</h3>
