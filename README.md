@@ -26,6 +26,8 @@
     </li>
     <li>NLW20 - Agents (<a href="https://github.com/douglasdl/NLW20-FullStack">FullStack</a> - <a href="https://github.com/douglasdl/NLW20-React">React</a>)
     </li>
+    <li>NLW21 - Operator (<a href="https://github.com/douglasdl/NLW21-Iniciante">Inicante</a> - <a href="https://github.com/douglasdl/NLW21-FullStack">FullStack</a> - <a href="https://github.com/douglasdl/NLW21-Python">Python</a>)
+    </li>
 </ul>
 
 <h3>Discover</h3>
