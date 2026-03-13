@@ -26,7 +26,7 @@
     </li>
     <li>NLW20 - Agents (<a href="https://github.com/douglasdl/NLW20-FullStack">FullStack</a> - <a href="https://github.com/douglasdl/NLW20-React">React</a>)
     </li>
-    <li>NLW21 - Pocket (<a href="https://github.com/douglasdl/nlw-21-Iniciante">Inicante</a> - <a href="https://github.com/douglasdl/NLW21-FullStack">FullStack</a> - <a href="https://github.com/douglasdl/NLW21-Python">Python</a>)
+    <li>NLW21 - Pocket (<a href="https://github.com/douglasdl/nlw-21-Iniciante">Inicante</a>)
     </li>
     <li>NLW22 - Operator (<a href="https://github.com/douglasdl/NLW22-Iniciante">Inicante</a> - <a href="https://github.com/douglasdl/NLW22-FullStack">FullStack</a> - <a href="https://github.com/douglasdl/NLW22-Python">Python</a>)
     </li>
